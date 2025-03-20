@@ -1,3 +1,5 @@
+![logo](https://github.com/shreyanasit/shreyanasit/blob/main/Banner.png)
+
 <h1 align="center">Hi 👋, I'm Shreya Nasit</h1>
 <h3 align="center">A passionate frontend developer from Australia</h3>
 <img align ="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/2ea6073d-9a25-4109-acd3-5b9035606b80">
